@@ -1,0 +1,17 @@
+.img {
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border:solid 4px red ;
+}
+.Name{
+  text-align: center;
+  border:solid 1px black ;
+}
+.adresse{
+  text-align: center;
+  border:solid 1px blue ;
+}
